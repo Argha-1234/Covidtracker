@@ -1,0 +1,38 @@
+.ta{
+ border-radius: 5px;
+ width: 30%;
+ font-size: 30px;
+ margin-left: 20px;
+ background: #CAAC55;
+ padding: 20px;
+}
+.tabe{
+ margin-left: 40px;
+}
+
+body{
+ font-family: Poppins, sans-Serif;
+}
+
+h1{
+ text-align: center;
+}
+
+.parent{
+ display: flex;
+}
+
+.an{
+ margin-left: 250px;
+}
+
+.de{
+ margin-left: 300px;
+}
+.deat{
+ margin-left: 50px;
+}
+
+.deac{
+ margin-left: 55px;
+}
